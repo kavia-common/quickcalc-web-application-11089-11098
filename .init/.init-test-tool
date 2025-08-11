@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/quickcalc-web-application-11089-11098/react_calculator_frontend"
+}
